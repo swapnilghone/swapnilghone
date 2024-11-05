@@ -1,20 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swapnil, you can call me Swap
-=====================================================================================================================================================
+# Hey there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Swap!
 
-Tech Lead / Web Developer| PHP, WordPress, React, Node
--------------------------
+### Tech Lead / Web Developer| PHP, WordPress, React, Node
 
-**Seasoned Development and Project Management Professional** 
-- Over 10 years of hands-on experience in software development, project management, and team leadership, encompassing all stages of the software lifecycle.
-- Successfully managed projects for clients worldwide, including the United States, Germany, Australia, and Japan, demonstrating adaptability to diverse cultural and business environments.
+
+- **Seasoned Development and Project Management Professional** 
+  - Over 10 years of hands-on experience in software development, project management, and team leadership, encompassing all stages of the software lifecycle.
+  - Successfully managed projects for clients worldwide, including the United States, Germany, Australia, and Japan, demonstrating adaptability to diverse cultural and business environments.
   
-**Expertise in Full Stack Development and Technical Leadership**
-- Proficient in a wide range of technologies, including PHP, MySQL, JavaScript, WordPress, Laravel,Javascript, ReactJs, NodeJs, MongoDB and Git, showcasing a versatile skill set.
-- Led and mentored development teams, fostering collaboration and innovation, resulting in successful project deliveries and client satisfaction.
+- **Expertise in Full Stack Development and Technical Leadership**
+  - Proficient in a wide range of technologies, including PHP, MySQL, JavaScript, WordPress, Laravel,Javascript, ReactJs, NodeJs, MongoDB and Git, showcasing a versatile skill set.
+  - Led and mentored development teams, fostering collaboration and innovation, resulting in successful project deliveries and client satisfaction.
 
-**Proven Track Record in Project Execution and Client Engagement**
-- Executed and delivered multiple projects with a focus on precision and quality, meeting or exceeding client expectations.
-- Established effective communication channels with clients, ensuring a deep understanding of their requirements and providing tailored solutions.
+-  **Proven Track Record in Project Execution and Client Engagement**
+    - Executed and delivered multiple projects with a focus on precision and quality, meeting or exceeding client expectations.
+    - Established effective communication channels with clients, ensuring a deep understanding of their requirements and providing tailored solutions.
 
 ### About
 
